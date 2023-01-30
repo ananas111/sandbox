@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+  font-family: "Raleway", sans-serif;
+  color: #ef5e99;
+}
+.fa-instagram {
+  color: rgb(100, 52, 231);
+  font-size: 100px;
+}
+.fa-twitter {
+  color: #ef5e99;
+  font-size: 107px;
+}
+.fa-facebook {
+  color: #5ee3ef;
+  font-size: 199px;
+}
